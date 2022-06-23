@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ezgtkl
+- 👋 Hi, I’m Ezgi
 - 👀 I’m interested in GIS, python, R and machine learning
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on GIS projects
